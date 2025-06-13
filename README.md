@@ -4,8 +4,8 @@
   
 # Data Source
 Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship Program offered by Forage, which contains Gender distribution, Tenure , Internet service, online security,Tech support, Contract Type, Payment Method, etc.
-<p align="center" style="font-size: 9pt;"><a 👇 </a></p>
-<p align="center" style="font-size: 9pt;"><a href="https://github.com/gkarthik333/Customer_Churn_Analysis-/blob/main/churn_data.csv">📂Download 👇 </a></p>
+<h1 align="center">👇</h1>                 
+<p align="center" style="font-size: 9pt;"><a href="https://github.com/gkarthik333/Customer_Churn_Analysis-/blob/main/churn_data.csv">📂Download  </a></p>
 
 # 🛠 Tools Used
 PowerBI - Creating Dashboards, Data Visualization
