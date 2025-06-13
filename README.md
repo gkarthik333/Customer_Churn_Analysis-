@@ -1,8 +1,8 @@
-# Project Overview
+# 💠 Project Overview
 * The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn.
 * Interpreted and gained insight into customer retention and how many of them joined, as well as how they are distributed on various parameters.
   
-# Data Source
+# 💠 Data Source
 Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship Program offered by Forage, which contains Gender distribution, Tenure , Internet service, online security,Tech support, Contract Type, Payment Method, etc.
 <h1 align="center">👇</h1>                 
 <p align="center" style="font-size: 9pt;"><a href="https://github.com/gkarthik333/Customer_Churn_Analysis-/blob/main/churn_data.csv">📂Download  </a></p>
@@ -10,7 +10,7 @@ Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship
 # 🛠 Tools Used
 PowerBI - Creating Dashboards, Data Visualization
 
-# Data Preparation
+# 💠 Data Preparation
 Here's a quick rundown of the steps I took in the project:
 
 1️] Data Preparation: Ensured the data was clean, organized, and ready for analysis.
@@ -40,8 +40,8 @@ The home page provides navigation to Churn and Risk Analysis dashboards. It list
 <br><br>
 ![Customer Risk Analysis snap](https://github.com/user-attachments/assets/f0d548df-3168-4f5b-93f9-f3bade502350)
 <br><br>
-# Insights
-#  Overview :
+# 💠 Insights
+# 📌 Overview :
 
 • Total customers are 7043 with number of retained customers is 5174 & customers churned are 1869.
 
@@ -51,7 +51,7 @@ The home page provides navigation to Churn and Risk Analysis dashboards. It list
 
 • There are about 16.21% customers who are senior citizens & percentage of senior citizens in churned customers is 25.46%.
 
-# Demographics :
+# 📌 Demographics :
 
 •Churn rate is higher for customers who have opted for Internet Services. Customers with Fiber Optic services have higher churn rate that is 69.39%.
 
@@ -59,7 +59,7 @@ The home page provides navigation to Churn and Risk Analysis dashboards. It list
 
 • It is observed that, customers with low tenure are churned more.
 
-# Subscription :
+# 📌 Subscription :
 
 • Tech support should be improved more.
 
