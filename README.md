@@ -26,27 +26,18 @@ Here's a quick rundown of the steps I took in the project:
 # 🏠 Home Page
 <br><br>
 ![Home Page](https://github.com/user-attachments/assets/4679e1ae-b568-4cf1-823d-d339e3a8eb95)
-
 <br><br>
 The home page provides navigation to Churn and Risk Analysis dashboards. It lists KPIs: reducing tech tickets, increasing contract sales, and boosting automatic payments. Churn Analysis covers demographics, account info, and services. Risk Analysis focuses on internet service, contracts, and payment methods. 
 <br><br>
 <br><br>
-
-
 # 📉 Churn Analysis
 <br><br>
 ![Churn Analysis snap](https://github.com/user-attachments/assets/64dbca67-dd16-4010-be4a-bf48dc83ffb6)
-
 <br><br>
-
 # ⚠️ Customer Risk Analysis
-
 <br><br>
 ![Customer Risk Analysis snap](https://github.com/user-attachments/assets/f0d548df-3168-4f5b-93f9-f3bade502350)
-
 <br><br>
-
-
 # Insights
 #  Overview :
 
@@ -86,8 +77,7 @@ The home page provides navigation to Churn and Risk Analysis dashboards. It list
 
 
 
-👨‍💻 Author
-Karthik G K | Data Analyst
-📧 [Your Email] | 🔗 [LinkedIn]
-Date: March 2025
+- 👨‍💻 Author
+- Karthik G K | Data Analyst
+
 
