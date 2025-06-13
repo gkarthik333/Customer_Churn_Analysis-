@@ -78,8 +78,7 @@ The home page provides navigation to Churn and Risk Analysis dashboards. It list
 *Aim to increase the sale of 1 and 2-year contracts by 5% each and boost yearly automatic payments by 5%.
 
 
-
-- 👨‍💻 Author
+# 👨‍💻 Author
 - Karthik G K | Data Analyst
 
 
