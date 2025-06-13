@@ -5,7 +5,7 @@
 # Data Source
 Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship Program offered by Forage, which contains Gender distribution, Tenure , Internet service, online security,Tech support, Contract Type, Payment Method, etc.
 
-# Tools Used
+# 🛠 Tools Used
 PowerBI - Creating Dashboards, Data Visualization
 
 # Data Preparation
@@ -21,8 +21,34 @@ Here's a quick rundown of the steps I took in the project:
 
 5️] Insights: Unearthed some fascinating findings!
 
-Insights
-1️] Overview :
+
+# 💠 Dashboard Walkthrough
+# 🏠 Home Page
+<br><br>
+![Home Page](https://github.com/user-attachments/assets/4679e1ae-b568-4cf1-823d-d339e3a8eb95)
+
+<br><br>
+The home page provides navigation to Churn and Risk Analysis dashboards. It lists KPIs: reducing tech tickets, increasing contract sales, and boosting automatic payments. Churn Analysis covers demographics, account info, and services. Risk Analysis focuses on internet service, contracts, and payment methods. 
+<br><br>
+<br><br>
+
+
+# 📉 Churn Analysis
+<br><br>
+![Churn Analysis snap](https://github.com/user-attachments/assets/64dbca67-dd16-4010-be4a-bf48dc83ffb6)
+
+<br><br>
+
+# ⚠️ Customer Risk Analysis
+
+<br><br>
+![Customer Risk Analysis snap](https://github.com/user-attachments/assets/f0d548df-3168-4f5b-93f9-f3bade502350)
+
+<br><br>
+
+
+# Insights
+#  Overview :
 
 • Total customers are 7043 with number of retained customers is 5174 & customers churned are 1869.
 
@@ -32,7 +58,7 @@ Insights
 
 • There are about 16.21% customers who are senior citizens & percentage of senior citizens in churned customers is 25.46%.
 
-2️] Demographics :
+# Demographics :
 
 •Churn rate is higher for customers who have opted for Internet Services. Customers with Fiber Optic services have higher churn rate that is 69.39%.
 
@@ -40,7 +66,7 @@ Insights
 
 • It is observed that, customers with low tenure are churned more.
 
-3️] Subscription :
+# Subscription :
 
 • Tech support should be improved more.
 
@@ -50,94 +76,15 @@ Insights
 
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
-Recommendations:
-Based on the analysis, here are some actionable recommendations:
+# ✅ Recommendations:
+- Based on the analysis, here are some actionable recommendations:
 
-Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
-Implement targeted discounts for Month-to-Month subscribers to enhance retention.
-Educate customers on the benefits of signing up for Online Security and Tech Support to improve service stickiness.
-Aim to increase the sale of 1 and 2-year contracts by 5% each and boost yearly automatic payments by 5%.
-
-
+* Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
+* Implement targeted discounts for Month-to-Month subscribers to enhance retention.
+* Educate customers on the benefits of signing up for Online Security and Tech Support to improve service stickiness.
+*Aim to increase the sale of 1 and 2-year contracts by 5% each and boost yearly automatic payments by 5%.
 
 
-💠 Dashboard Walkthrough
-🏠 Home Page
-https://images/home-page.png
-Strategic KPIs:
-
-Reduce Fiber optic tech tickets to 0.5 per customer.
-
-Increase 1-/2-year contracts by 5%.
-
-Grow automatic payments by 5% yearly.
-Navigation: Links to Churn Analysis and Customer Risk modules.
-
-📉 Churn Analysis
-https://images/churn-analysis.png
-Key Insights:
-
-Demographics: 49.8% female customers; seniors churn 36% faster.
-
-Contracts: Month-to-month users churn at 74.91% vs. 3% for two-year contracts.
-
-Services: 50.03% lack tech support, correlating with 16.59% ticket escalation.
-Visuals:
-
-Interactive filters for gender, contract type, and services.
-
-Donut charts showing payment method distribution.
-
-⚠️ Customer Risk Analysis
-https://images/risk-analysis.png
-Critical Metrics:
-
-Fiber Optic Users: 40% of revenue but 3.9K tickets.
-
-Revenue at Risk: $0.86M from Fiber users vs. $0.45M DSL.
-Charts:
-
-Stacked bar charts: Churn rate by contract length.
-
-Heatmaps: Payment method vs. monthly charges.
-
-🛠 Tools & Technologies
-Power BI: Dashboard design, DAX measures (e.g., Churn Rate = DIVIDE(Churned_Customers, Total_Customers)).
-
-Excel: Initial data profiling.
-
-GitHub: Version control and documentation.
-
-📈 Skills Demonstrated
-Data Storytelling: Highlighted Fiber optic’s cost-to-serve vs. revenue.
-
-Visual Best Practices: Used heatmaps for payment risk, bar charts for contract comparisons.
-
-Strategic Alignment: KPIs tied to board-level goals (contracts, payments).
-
-Technical: DAX, data modeling, drill-through filters.
-
-✅ Findings & Recommendations
-Immediate Actions:
-
-Target Fiber Optic Users: Boost tech support staffing to reduce tickets.
-
-Promote Contracts: Offer discounts for 1-/2-year sign-ups.
-
-Payment Incentives: Waive fees for auto-pay enrollment.
-
-Long-Term:
-
-Predictive model: Flag at-risk customers (e.g., seniors on month-to-month).
-
-A/B test: Bundle internet with streaming for stickiness.
-
-🧭 Interactivity Features
-Filters: Internet type, contract length, gender.
-
-Drill-Downs: From overall churn → demographics → individual services.
-
-Tooltips: Hover to see ticket stats per customer segment.
 
 👨‍💻 Author
 Karthik G K | Data Analyst
